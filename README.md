@@ -1,10 +1,12 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+**Welcome** is a Probot App that helps you to get new developers on your team acclimated with your organization and their new projects.
 
 ## What it does
 
-FEATURES PLACEHOLDER
+**Welcome** automatically generates friendly messages when new team members:
+  * Create their first issue
+  * Open or merge their first pull request.
 
 ## Getting started
 
